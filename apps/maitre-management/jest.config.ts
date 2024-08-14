@@ -1,6 +1,6 @@
 /* eslint-disable */
 export default {
-  displayName: 'maitre-management',
+  //displayName: 'maitre-management',
   preset: '../../jest.preset.js',
   transform: {
     '^(?!.*\\.(js|jsx|ts|tsx|css|json)$)': '@nx/react/plugins/jest',
