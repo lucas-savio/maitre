@@ -1,0 +1,9 @@
+{
+  "name": "maitre-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/maitre-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["maitre"],
+  "// targets": "to see all targets run: nx show project maitre-e2e --web",
+  "targets": {}
+}
